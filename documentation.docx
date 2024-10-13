@@ -1,7 +1,0 @@
-
-LSTM:
-
-Here the data is irst collected from Alpha vantage api.
-
-The data is then converted into dataframe and the data is processed reoving outliers,
-removing null values,removing duplicates in the data and then the releveant plots are created 
