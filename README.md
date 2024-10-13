@@ -4,14 +4,14 @@ THe current app allows users to select their respective choice of the stock, the
 the actual and the predicted output of the model such that the future performance of the stock can be predicted.
 ## Table of Contents
 - [Features](#features)
-- [Installation](#installation)
+- [Application Installation](#installation)
 - [Tools Used](#tools-used)
 
 
 
 ## Features
 - F 1: Timestamp
-- F 2: close value of stock
+- F 2: closing price prediction of stock
 
 ## Application installation
 To set up the project, follow these steps:
@@ -30,24 +30,26 @@ To set up the project, follow these steps:
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
 </a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
- <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/>
+<a href="" target="_blank" rel="noreferrer">
+ <img src="https://github.com/Venkata-Ch/LSTM_App/blob/65860ae206f960db552639815e438f7bab54e806/assets/docker-logo-blue.png" alt="streamlit" width="100" height="40"/>
 </a>
 </p>
 
 
-![Screenshot 1](assets/Screenshot from 2024-10-04 14-09-40.png)
-*Data gathering and insertion*
 
 
-![Screenshot 2](assets/Screenshot from 2024-10-09 17-29-01.png)
+![Screenshot 2](https://github.com/Venkata-Ch/LSTM_App/blob/65860ae206f960db552639815e438f7bab54e806/assets/Screenshot%20from%202024-10-09%2017-29-01.png)
 *Model building*
 
-![Screenshot 3](assets/Screenshot from 2024-10-09 17-29-18.png)
+![Screenshot 2](https://github.com/Venkata-Ch/LSTM_App/blob/65860ae206f960db552639815e438f7bab54e806/assets/Screenshot%20from%202024-10-09%2017-29-18.png)
 *Model results*
+
+![Screenshot 3](https://github.com/Venkata-Ch/LSTM_App/blob/e00f5dfb15a5d827e06b77aeae56c24f5a2b9186/assets/Screenshot%202024-10-13%20175823.png)
+*Model Closing price prediction results*
 
 #### Walkthrough
 
 
 
+[Screencast from 10-04-2024 02_09_57 PM.webm](https://github.com/user-attachments/assets/2d909304-d679-4088-9324-08a2635f2537)
 
