@@ -1,0 +1,10 @@
+streamlit
+torch
+pandas
+numpy
+plotly
+scikit-learn
+sqlalchemy
+mysql-connector-python
+transformers
+
