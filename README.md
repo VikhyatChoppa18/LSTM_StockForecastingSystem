@@ -5,8 +5,8 @@ the actual and the predicted output of the model such that the future performanc
 This is a complete microservice built using FastAPI, Python and Docker that fetches live data from AlphaVantage API this system predicts the closing price prediction of the stock.
 
 The system is built on the follwing:\n
-  1)This system is built on LSTM model built from scratch using PyTorch and python.
-  \n2)Streamlit for the frontend.
+  - 1)This system is built on LSTM model built from scratch using PyTorch and python.
+  - 2)Streamlit for the frontend.
 The model predicts the closing price with 96% accuracy making it reliable source to consider the closing price from live data.
   
 ## Table of Contents
